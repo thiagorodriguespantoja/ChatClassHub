@@ -1,0 +1,4 @@
+Flask
+requests
+twilio
+boto3
